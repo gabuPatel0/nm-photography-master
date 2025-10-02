@@ -1,7 +1,8 @@
 {
-  "name": "nemanja-photography",
+  "name": "nm-photography-portfolio",
+  "version": "0.1.0",
+  "homepage": "https://gabupatel0.github.io/nm-photography-master",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
