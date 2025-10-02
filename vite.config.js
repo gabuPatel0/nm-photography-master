@@ -6,11 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/nm-photography-master/',
   build: {
-    target: 'esnext',
     outDir: 'dist',
-  },
-  server: {
-    port: 3000,
-    open: true,
   },
 })
